@@ -35,7 +35,7 @@ df['Age_next_year'] = df['Age'] + 1
 print(df)
 
 # save to csv
-# c
+# df.to_csv('my_first_df.csv')
 
 # create new series ( based on py list
 hobby_list = ['piano', 'swimming', 'tenis']
